@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+
+  /* background-color: rgb(255, 256, 256); */
+}
+/* For WebKit browsers (Chrome, Safari) */
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+
+/* For Firefox */
+/* html {
+  scrollbar-width: none;
+} */
+
+.home {
+  background-color: #ffffff;
+  width: 100vw;
+  height: 2310px;
+  /* 
+  border: 1px solid black; */
+
+  margin: 0;
+}
